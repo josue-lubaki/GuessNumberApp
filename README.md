@@ -9,11 +9,13 @@ A simple application to guess a number between 1 and 100. The user must to guess
 2. The user can see the number of rounds it took to guess the number
 
 ## Demo of the application
-> Peek Number
-![Guess Number App](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/99c4c445-0f07-4e65-9986-6ca0d008f2cf.gif?ClientID=vimeo-core-prod&Date=1674792738&Signature=14879c693ca4fe03371bf8d9b5515aa52cebdb74)](https://player.vimeo.com/video/793218748)
 
-> Game Over
-![Guess Number App](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/618216d6-d605-4de6-bb8e-da2ee5f0f44d.gif?ClientID=vimeo-core-prod&Date=1674793390&Signature=52142701804c6540aee18d9c9ecfeec505b0ed12)](https://player.vimeo.com/video/793218748)
+### Peek Number
+[![GuessNumberApp](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/99c4c445-0f07-4e65-9986-6ca0d008f2cf.gif?ClientID=vimeo-core-prod&Date=1674792738&Signature=14879c693ca4fe03371bf8d9b5515aa52cebdb74)](https://player.vimeo.com/video/793218748 'Full video')
+
+### Game Over
+
+[![GuessNumberApp](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/618216d6-d605-4de6-bb8e-da2ee5f0f44d.gif?ClientID=vimeo-core-prod&Date=1674793390&Signature=52142701804c6540aee18d9c9ecfeec505b0ed12)](https://player.vimeo.com/video/793218748 "Full video")
 
 ## Screenshots of the application
 <table border="1">
