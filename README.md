@@ -23,9 +23,9 @@ A simple application to guess a number between 1 and 100. The user must to guess
         <th align="center"> Game Over </th>
     </tr>
     <tr>
-        <td> <img src="https://i.imgur.com/YuWfOzs.png" width=280 height=600 /> </td>
-        <td> <img src="https://i.imgur.com/xIiUpdG.png" width=280 height=600 /></td>
-        <td> <img src="https://i.imgur.com/Jx4F2nq.png" width=280 height=600 /></td>
+        <td> <img src="https://i.imgur.com/YuWfOzs.png" width=280 height=580 /> </td>
+        <td> <img src="https://i.imgur.com/Jx4F2nq.png" width=280 height=580 /></td>
+        <td> <img src="https://i.imgur.com/xIiUpdG.png" width=280 height=580 /></td>
     </tr>
 </table>
 
