@@ -102,6 +102,7 @@ const styles = StyleSheet.create({
 		flex: 1,
 		paddingTop: 48,
 		paddingHorizontal: 24,
+		alignItems: 'center',
 	},
 	instructorText: {
 		marginBottom: 12,
